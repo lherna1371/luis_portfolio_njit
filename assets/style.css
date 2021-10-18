@@ -1,0 +1,18 @@
+body {
+    background-color: blueviolet;
+}
+
+
+.red-bg {
+    background-color: green;
+} 
+
+div {
+    background-color: red;
+    border: 5px solid black;
+}
+
+
+#white-bg {
+    background-color: white;
+}
